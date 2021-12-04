@@ -1,13 +1,18 @@
-@media screen (width: 200) {
-  body {
-    font-size: 10px;
-  }
+h1,
+h2,
+p {
+  font-family: sans-serif;
+}
+h1 {
+  font-size: 32px;
+  color: blueviolet;
+}
 
-  #welcome-section {
-    height: 100vh;
-  }
+h2 {
+  font-size: 28px;
+  color: 777;
+}
 
-  nav {
-    display: fixed;
-  }
+p {
+  font-size: 12;
 }
