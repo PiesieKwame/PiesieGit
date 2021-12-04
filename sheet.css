@@ -1,0 +1,13 @@
+@media screen (width: 200) {
+  body {
+    font-size: 10px;
+  }
+
+  #welcome-section {
+    height: 100vh;
+  }
+
+  nav {
+    display: fixed;
+  }
+}
